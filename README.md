@@ -1,0 +1,1 @@
+Projeto para Incavel - Desenvolvimento de um sistema de verificação de produtos a partir da classificação de imagens.
