@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+
+streamlit
+Pillow
+numpy
+pandas
+tensorflow-intel
+protobuf
+tensorboard
+keras
+google-api-core
+flatbuffers
